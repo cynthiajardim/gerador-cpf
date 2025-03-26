@@ -1,0 +1,17 @@
+{
+  "name": "@cynthiajardim/gerador-cpf",
+  "version": "1.0.0",
+  "description": "Gera e valida CPFs",
+  "main": "./src/index.js",
+  "exports": "./src/index.js",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch":"vitest"
+  },
+  "keywords": ["gerador cpf", "validador de CPF", "CPF", "gerar CPF"],
+  "author": "Cynthia Jardim",
+  "license": "MIT",
+  "devDependencies": {
+    "vitest": "^3.0.9"
+  }
+}
